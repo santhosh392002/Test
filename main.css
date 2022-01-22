@@ -9,9 +9,11 @@
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-    height:109vh;
-
+    background-repeat: repeat-y;
+    height:100vh;
+    overflow-y: scroll;
 }
+
 h4{
     color:rgb(163, 159, 159);
     font-family: fantasy ;
